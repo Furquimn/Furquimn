@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Furquimn
+- 👀 I’m interested in UI/UX; Front-end
+- 🌱 I’m currently learning Front-end
+- 💞️ I’m looking to collaborate on UI/UX; Front-end
+- 📫 How to reach me christian.furquim@hotmail.com
