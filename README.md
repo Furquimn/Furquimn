@@ -1,3 +1,3 @@
-Front-end Developer | React & TypeScript | UI/UX enthusiast | Construindo interfaces acessíveis e responsivas.
+Front-end Developer | Javascript & React | UI/UX | Construindo interfaces acessíveis e responsivas.
 
 Contato: christian.furquim@hotmail.com
